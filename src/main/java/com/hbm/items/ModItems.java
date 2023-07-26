@@ -1548,7 +1548,6 @@ public class ModItems {
 	public static Item gun_proto;
 	public static Item gun_mirv;
 	public static Item gun_bf;
-	public static Item gun_bf_ammo;
 	public static Item gun_chemthrower;
 	public static Item gun_mp40;
 	public static Item gun_thompson;
